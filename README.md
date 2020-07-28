@@ -1,3 +1,5 @@
+<img align="right" src="/family.jpg" alt="Me and my family" width=320px />
+
 ### Hi, I'm jubi 👋
 
 I’m an engineer, a gamer, a husband, and a father.  I currently work as a Software Engineer at Google.
