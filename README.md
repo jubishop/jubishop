@@ -4,7 +4,7 @@
 
 I’m an engineer, a gamer, a husband, and a father.  
 
-- 🤖  I currently work as a Software Engineer at Google on a performance testing framework, parts of which are open-sourced as [Mako](https://github.com/google/mako).
+- 🤖  I'm currently working on a performance testing framework, parts of which are open-sourced as [Mako](https://github.com/google/mako).
 - 🎮  My hobby projects at the moment include [TuskBot](http://jubishop.com/TuskBot/), [Custom Rocket League Maps](https://steamcommunity.com/id/jubishop/myworkshopfiles/), and starting my own [Blog](http://artisanalsoftware.com).
 - 🤓  For fun I'm learning [Unreal Engine](https://www.unrealengine.com/en-US/), [Jekyll](https://jekyllrb.com/), and [CSS](https://www.w3.org/Style/CSS).
 - 💬  Ask me about [Ruby](https://www.ruby-lang.org/en/), [Rocket League](https://www.rocketleague.com/), and making [Discord bots](https://discord.com/developers/docs/).
