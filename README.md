@@ -1,4 +1,4 @@
-<img align="right" src="family.jpg" alt="Me and my family" width=320px />
+<img align="right" src="https://github.com/jubishop/jubishop/blob/master/family.jpg" alt="Me and my family" width=320px />
 
 ### Hi, I'm jubi 👋
 
