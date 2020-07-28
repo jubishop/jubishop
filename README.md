@@ -9,4 +9,4 @@ I’m an engineer, a gamer, a husband, and a father.
 - 🤓  For fun I'm learning Unreal Engine, Jekyll, and CSS.
 - 💬  Ask me about Ruby, Rocket League, and making Discord bots.
 - 📫  You can reach me at: me@jubishop.com
-- ⛺️  Fun fact: From 30 to 37 years old I took off work to travel, remodel an old home, do a ton of hiking, and start my family.
+- ⛺️  From 30 to 37 years old I took off work to travel, remodel an old home, do a ton of hiking, and start my family.
