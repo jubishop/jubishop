@@ -8,5 +8,5 @@ I’m an engineer, a gamer, a husband, and a father.
 - 📱  My hobby projects at the moment include [TuskBot](http://jubishop.com/TuskBot/), [Custom Rocket League Maps](https://steamcommunity.com/id/jubishop/myworkshopfiles/), and starting my own [Blog](http://artisanalsoftware.com).
 - 🤓  For fun I'm learning Unreal Engine, Jekyll, and CSS.
 - 💬  Ask me about Ruby, Rocket League, and making Discord bots.
-- 📫  How to reach me: me@jubishop.com
-- 🚴🏽‍♀️  Fun fact: From 30 to 37 years old I took off work to travel, remodel an old home, do a ton of hiking, and start my family.
+- 📫  You can reach me at: me@jubishop.com
+- ⛺️  Fun fact: From 30 to 37 years old I took off work to travel, remodel an old home, do a ton of hiking, and start my family.
