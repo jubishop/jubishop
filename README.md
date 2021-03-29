@@ -5,7 +5,7 @@
 I’m an engineer, a gamer, a husband, and a father.  
 
 - 🤖  I currently work at Google, on a performance testing framework, parts of which are open-sourced as [Mako](https://github.com/google/mako).
-- 🎮  My hobby projects at the moment include [TuskBot](http://jubishop.com/TuskBot/), starting my own [Blog](http://artisanalsoftware.com), and making my own [RubyGems server](https://www.jubigems.org) app.
+- 🎮  My hobby projects at the moment include [TuskBot](http://jubishop.com/TuskBot/), starting my own [Blog](http://artisanalsoftware.com), and making my own [RubyGems server](https://www.jubigems.org).
 - 🤓  For fun I'm learning how to use [RBS](https://github.com/ruby/rbs) and [Steep](https://github.com/soutaro/steep).
 - 💬  Ask me about [Ruby](https://www.ruby-lang.org/en/), [Rocket League](https://www.rocketleague.com/), and making [Discord bots](https://discord.com/developers/docs/).
 - 📫  You can reach me at: jubi@jubishop.com
