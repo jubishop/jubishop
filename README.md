@@ -4,7 +4,8 @@
 
 I’m an engineer, a gamer, a husband, and a father.  
 
-- 🤖  I currently work at Google, on a performance testing framework, parts of which are open-sourced as [Mako](https://github.com/google/mako).
+- 🏖️  I'm currently on an extended sabbatical/retirement.  But I'm working on my own iOS podcast player as a side project. 🎤
+- 🤖  From 2019 to 2023 I worked at Google, on a performance testing framework, parts of which are open-sourced as [Mako](https://github.com/google/mako).
 - 🎮  My hobby projects at the moment include [TuskBot](http://jubishop.com/TuskBot/), starting my own [Blog](http://artisanalsoftware.com), making my own [RubyGems server](https://www.jubigems.org), making my own [Poll/Voting Website](http://smalldemocracy.com) and making my own [Web Framework](https://github.com/jubishop/tony).
 - 💬  Ask me about [Ruby](https://www.ruby-lang.org/en/), [Rocket League](https://www.rocketleague.com/), and making [Discord bots](https://discord.com/developers/docs/).
 - 📫  You can reach me at: jubi@jubishop.com
